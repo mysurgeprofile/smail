@@ -9,7 +9,7 @@ enabled = true
 
 [[kv_namespaces]]
 binding = "KV"
-id = "07f8fe12acba46bbba773dbf6b68aa81"
+id = "dba9af68eb634e2f8ebde23d5935c36d"
 
 [[d1_databases]]
 binding = "DB"
